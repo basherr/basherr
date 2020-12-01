@@ -7,9 +7,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-
 I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Enolved with internationl teams for the past 2 years. Beside's programming, I love travelling.
 
 **Talking about Personal Stuffs:**
