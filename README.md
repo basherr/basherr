@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello Engineers
+<a href="https://twitter.com/bsranwar">
+  <img align="left" alt="Basheer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/basheer-ahmed-229a11b3/">
+  <img align="left" alt="Basheer's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<!--
-**basherr/basherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Enolved with internationl teams for the past 2 years. Beside's programming, I love travelling.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I've passion for Javascript, Python and PHP :wink:;
+- 🌱 I’m currently working on [@PHPDesignPattern](https://github.com/basherr/design-patterns); 
+- 💬 You are working on something cool, I would even love to ruin my weekends :happy
+- 📫 How to reach me: [@bsranwar](https://twitter.com/abhisheknaiidu)
+
+## 💻 Open Source Work Stats
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=basherr&show_icons=true)
