@@ -9,14 +9,15 @@
 <br/>
 <br/>
 
-I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Enolved with internationl teams for the past 2 years. Beside's programming, I love travelling.
+I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Enolved with internationl teams for the past 2 years. Beside's programming, I love travelling :airplane:.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I've passion for Javascript, Python and PHP :wink:;
 - 🌱 I’m currently working on [@PHPDesignPattern](https://github.com/basherr/design-patterns); 
-- 💬 You are working on something cool, I would even love to ruin my weekends :happy
-- 📫 How to reach me: [@bsranwar](https://twitter.com/abhisheknaiidu)
+- 💬 Are you going to work/working to build something amazing :bulb:? I would even love to ruin my weekends :large_blue_diamond: [@bsranwar](https://twitter.com/basherr)
+- :books: - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/)
+
 
 ## 💻 Open Source Work Stats
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=basherr&show_icons=true)
