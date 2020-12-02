@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Enolved with internationl teams for the past 2 years. Beside's programming, I love travelling :airplane:.
+I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. Evolved with internationl teams for the past 2 years. Beside's programming, I love travelling :airplane:.
 
 **Talking about Personal Stuffs:**
 
