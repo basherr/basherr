@@ -16,7 +16,7 @@ I'm Basheer Ahmed, a Full Stack Developer 🚀 from Pakistan working remotely. E
 - 👨🏽‍💻 I've passion for Javascript, Python and PHP :wink:;
 - 🌱 I’m currently working on [@PHPDesignPattern](https://github.com/basherr/design-patterns); 
 - 💬 Are you going to work/working to build something amazing :bulb:? I would even love to ruin my weekends :large_blue_diamond: [@bsranwar](https://twitter.com/basherr)
-- :books: - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/)
+- :books: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/)
 
 
 ## 💻 Open Source Work Stats
