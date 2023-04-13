@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-I'm Basheer Ahmed, a Full Stack Developer and currently working in **Linz, Austria**. Beside's programming, I love travelling :airplane:.
+I'm Basheer Ahmed, a Full Stack Developer and currently working in **Ontario, Canada**. Beside's programming, I love travelling :airplane:.
 
 **Talking about Personal Stuffs:**
 
